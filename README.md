@@ -2,6 +2,8 @@
 
 **Identify Features of Money Making Mobile Games Using Regression**
 
+This is my 2nd project done during the Metis Data Science Boot Camp.
+
 My Goal:
 Recommendations on features you should include on your next mobile game.
 For example:
