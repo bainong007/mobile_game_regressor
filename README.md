@@ -19,6 +19,7 @@ Data Collection:
 Model: Ridge Regression
 
 Check out the result and presentation below:
+
 [Presentation PowerPoint](https://github.com/bainong007/mobile_game_regressor/blob/master/presentation/Mobile%20Game%20Regression.pptx)
 
 
